@@ -6,11 +6,10 @@ let me;
 
 let coloroptions = []
 
-
+ 
 
 function setup() {
   createCanvas(500, 400);
-  coloroptions = [color(140, 0, 255), color(255, 238, 0), color(255, 102, 0), color(255, 0, 166), color(26, 255, 0)]
 
 
   //make one avatar called me
